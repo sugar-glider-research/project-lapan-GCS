@@ -1,0 +1,9 @@
+c:\users\danu\documents\visual studio 2015\Projects\GCSPustekbangLapan\GCSPustekbangLapan\bin\Debug\GCSPustekbangLapan.exe.config
+c:\users\danu\documents\visual studio 2015\Projects\GCSPustekbangLapan\GCSPustekbangLapan\bin\Debug\GCSPustekbangLapan.exe
+c:\users\danu\documents\visual studio 2015\Projects\GCSPustekbangLapan\GCSPustekbangLapan\bin\Debug\GCSPustekbangLapan.pdb
+c:\users\danu\documents\visual studio 2015\Projects\GCSPustekbangLapan\GCSPustekbangLapan\obj\Debug\GCSPustekbangLapan.csprojResolveAssemblyReference.cache
+c:\users\danu\documents\visual studio 2015\Projects\GCSPustekbangLapan\GCSPustekbangLapan\obj\Debug\GCSPustekbangLapan.frmMain.resources
+c:\users\danu\documents\visual studio 2015\Projects\GCSPustekbangLapan\GCSPustekbangLapan\obj\Debug\GCSPustekbangLapan.Properties.Resources.resources
+c:\users\danu\documents\visual studio 2015\Projects\GCSPustekbangLapan\GCSPustekbangLapan\obj\Debug\GCSPustekbangLapan.csproj.GenerateResource.Cache
+c:\users\danu\documents\visual studio 2015\Projects\GCSPustekbangLapan\GCSPustekbangLapan\obj\Debug\GCSPustekbangLapan.exe
+c:\users\danu\documents\visual studio 2015\Projects\GCSPustekbangLapan\GCSPustekbangLapan\obj\Debug\GCSPustekbangLapan.pdb
